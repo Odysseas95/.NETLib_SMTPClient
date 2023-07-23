@@ -1,4 +1,4 @@
-# SMTPClient Library
+# SMTPClient .NET Library
 
 The SMTPClient Library is a C# .NET Framework library designed to provide an SMTP client functionality for reading messages from an email server and sending emails to recipients. The library includes two main classes: `SMTPClient` and `SMTPHelper`.
 
